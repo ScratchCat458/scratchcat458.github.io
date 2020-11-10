@@ -1,10 +1,8 @@
 {
   "name":"Test List",
   "author":"ScratchCat458",
-  "words":[
-    "seven",
+  "words":["seven",
     "potato",
     "duck",
-    "vibe"
-  ]
+    "vibe"]
 }
